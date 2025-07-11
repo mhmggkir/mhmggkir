@@ -1,4 +1,4 @@
-[<img src="./github-header-image.png" width="100%"/>](https://github.com/mhmggkir)
+[<p style="display:flex; justify-content: center"><img src="./github-header-image.png"/></p>](https://github.com/mhmggkir)
 
 **Hello,** <br>
 _from_ seseorang dari Nusantara
