@@ -1,4 +1,4 @@
-[![https://github.com/mhmggkir](./github-header-image.png)](https://github.com/mhmggkir)
+[<img src="./github-header-image.png" width="100%"/>](https://github.com/mhmggkir)
 
 **Hello,** <br>
 _from_ seseorang dari Nusantara
