@@ -2,8 +2,8 @@
 
 ---
 
-**Halo,**
-dari seseorang dari Nusantara
+**Hello,** <br>
+_from_ seseorang dari Nusantara
 
 ---
 
